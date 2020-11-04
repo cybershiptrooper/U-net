@@ -3,6 +3,6 @@ Implementation of <a href="https://lmb.informatik.uni-freiburg.de/people/ronnebe
 <a href="https://github.com/cybershiptrooper/U-net/blob/main/EE782_Assignment_1.pdf">EE782_Assignment_1.pdf</a>.
 
 The authors of this work are-
-1. Rohan Gupta
+1. Rohan Gupta [<a href="https://github.com/cybershiptrooper">github</a>]
 2. Shubham Seth [<a href="https://www.facebook.com/shubham.seth.56">facebook</a>]
 3. Yash Sanjeev [<a href="https://github.com/sanjivyash">github</a>]
